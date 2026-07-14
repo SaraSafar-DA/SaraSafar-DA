@@ -8,9 +8,9 @@ This profile serves as a showcase of my diverse projects and skills developed ac
 
 ---
 
-## 🛠️ My Technical & Design Skills
+##  My Technical & Design Skills
 
-| 📊 Data Analysis & Geospatial | 🎨 UI/UX & Design | 💻 Programming & Cloud |
+| 📊 Data Analysis & Geospatial | UI/UX & Design | 💻 Programming & Cloud |
 | :--- | :--- | :--- |
 | - Geospatial Data Analysis (GEE) | - Mobile UX/UI Design | - Python & Java |
 | - Image Classification (Google Vision API) | - Interactive Prototyping | - SQL & Database Foundations |
@@ -20,10 +20,10 @@ This profile serves as a showcase of my diverse projects and skills developed ac
 
 ---
 
-##  Soft Skills & Methodologies
-- Agile/Scrum Methodology (Iterative development & sprint planning)
+##  Soft Skills 
+- Project Management
 - Problem-Solving 
-- Teamwork & Collaboration | Technical Communication
+- Teamwork & Collaboration 
 
 ---
 
