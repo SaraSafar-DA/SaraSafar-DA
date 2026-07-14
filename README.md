@@ -35,10 +35,10 @@ This profile serves as a showcase of my diverse projects and skills developed ac
   * Core Tech: React Native, TypeScript, Zustand, Firebase (Auth, Firestore, FCM, Storage).
 
 ### 📊 2. Data Analysis & Machine Learning
-* [Kepler-Exoplanet-Data-Analysis](https://github.com/SaraSafar-DA/Kepler-Exoplanet-Data-Analysis)
+* [Kepler-Exoplanet-Data-Analysis](https://github.com/SaraSafar-DA/Kepler-Exoplanet-Data--Analysis)
   * Description: A predictive data analysis project that filters and classifies raw astronomical signals observed by the Kepler Space Telescope into confirmed planets or false positives using Python.
   * Core Tech: Python (Pandas, NumPy), Random Forest Classifier, Google Colab.
-
+    
 ### 📈 3. Business Intelligence & Data Visualization
 * [Supermarket-Sales-PowerBI-Dashboard](https://github.com/SaraSafar-DA/Supermarket-Sales-PowerBI-Dashboard)
   * Description: An interactive dashboard that transforms retail transaction data into visual, actionable insights for business decision-makers.
@@ -47,11 +47,11 @@ This profile serves as a showcase of my diverse projects and skills developed ac
 ### 📱 4. UI/UX & Product Design
 * [Local-Bites-Mobile-UX-Design](https://github.com/SaraSafar-DA/Local-Bites-Mobile-UX-Design)
   * Description: A mobile application interface design built to enhance restaurant discovery UX, integrating advanced review, rating, and user engagement features.
-  * Interactive Preview: 👉 [Figma Live Prototype](https://www.figma.com/proto/oIX7UxEm8XkIX2x9MDXD0f/project?node-id=1-70&t-BTyY1inlirfF2MAV-1)
+  * Interactive Preview:  [Figma Live Prototype](https://www.figma.com/proto/oIX7UxEm8XkIX2x9MDXD0f/project?node-id=1-70&t-BTyY1inlirfF2MAV-1)
   * Core Tech: Figma (UX/UI).
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 - 📧 Email: sarahsafar1020@gmail.com
 - 💼 LinkedIn: http://linkedin.com/in/sara-safar-
