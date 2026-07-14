@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello and Welcome to My Portfolio! 
 
-<!--
-**SaraSafar-DA/SaraSafar-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Graduate, specializing as a Data Analyst & UI/UX Designer. 
 
-Here are some ideas to get you started:
+With a solid foundation in computer science core principles, I bridge the gap between logical data processing—ranging from retail business metrics to complex astronomical data—and creative, user-centered design. My goal is to leverage my technical background to build complete, scalable, and highly functional digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile serves as a showcase of my diverse projects and skills developed across multiple domains.
+
+---
+
+## 🛠️ My Technical & Design Skills
+
+| 📊 Data Analysis & Geospatial | 🎨 UI/UX & Design | 💻 Programming & Cloud |
+| :--- | :--- | :--- |
+| - Geospatial Data Analysis (GEE) | - Mobile UX/UI Design | - Python & Java |
+| - Image Classification (Google Vision API) | - Interactive Prototyping | - SQL & Database Foundations |
+| - Business Intelligence (Power BI) | - Figma Components & Auto Layout | - Firebase Cloud Services |
+| - Spectral & Meteorological Analysis | - User Journey & Wireframing | - Frontend Fundamentals (HTML, CSS, JS) |
+| - Data Cleaning & Preparation | - Multi-User Role Layouts | -  GitHub |
+
+---
+
+##  Soft Skills & Methodologies
+- Agile/Scrum Methodology (Iterative development & sprint planning)
+- Problem-Solving 
+- Teamwork & Collaboration | Technical Communication
+
+---
+
+##  Featured Projects Across Different Fields
+
+### 🎓 1. Graduation Project: Khayr (خَيْر) - AI Food Donation Platform
+* [Khayr-Smart-Donation-App](https://github.com/SaraSafar-DA/Khayr-Smart-Donation-App)
+  * Description: An AI-powered, cross-platform mobile application developed to reduce food waste in Saudi Arabia by connecting donors, charities, and volunteers in real-time using Google Cloud Vision API and Firestore transactions[cite: 1].
+  * Core Tech: React Native, TypeScript, Zustand, Firebase (Auth, Firestore, FCM, Storage)[cite: 1].
+
+### 📊 2. Data Analysis & Machine Learning
+* [Kepler-Exoplanet-Data-Analysis](https://github.com/SaraSafar-DA/Kepler-Exoplanet-Data-Analysis)
+  * Description: A predictive data analysis project that filters and classifies raw astronomical signals observed by the Kepler Space Telescope into confirmed planets or false positives using Python.
+  * Core Tech: Python (Pandas, NumPy), Random Forest Classifier, Google Colab.
+
+### 📈 3. Business Intelligence & Data Visualization
+* [Supermarket-Sales-PowerBI-Dashboard](https://github.com/SaraSafar-DA/Supermarket-Sales-PowerBI-Dashboard)
+  * Description: An interactive dashboard that transforms retail transaction data into visual, actionable insights for business decision-makers.
+  * Core Tech: Power BI, Power Query.
+
+### 📱 4. UI/UX & Product Design
+* [Local-Bites-Mobile-UX-Design](https://github.com/SaraSafar-DA/Local-Bites-Mobile-UX-Design)
+  * Description: A mobile application interface design built to enhance restaurant discovery UX, integrating advanced review, rating, and user engagement features.
+  * Interactive Preview: 👉 [Figma Live Prototype](https://www.figma.com/proto/oIX7UxEm8XkIX2x9MDXD0f/project?node-id=1-70&t-BTyY1inlirfF2MAV-1)
+  * Core Tech: Figma (UX/UI).
+
+---
+
+## 📫 Let's Connect!
+- 📧 Email: sarahsafar1020@gmail.com
+- 💼 LinkedIn: http://linkedin.com/in/sara-safar-
