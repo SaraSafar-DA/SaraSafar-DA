@@ -15,8 +15,8 @@ This profile serves as a showcase of my diverse projects and skills developed ac
 | - Geospatial Data Analysis (GEE) | - Mobile UX/UI Design | - Python & Java |
 | - Image Classification (Google Vision API) | - Interactive Prototyping | - SQL & Database Foundations |
 | - Business Intelligence (Power BI) | - Figma Components & Auto Layout | - Firebase Cloud Services |
-| - Spectral & Meteorological Analysis | - User Journey & Wireframing | - Frontend Fundamentals (HTML, CSS, JS) |
-| - Data Cleaning & Preparation | - Multi-User Role Layouts | -  GitHub |
+| - Spectral & Meteorological Analysis |  | - Frontend Fundamentals (HTML, CSS, JS) |
+| - Data Cleaning & Preparation || -  GitHub |
 
 ---
 
