@@ -31,8 +31,8 @@ This profile serves as a showcase of my diverse projects and skills developed ac
 
 ### 🎓 1. Graduation Project: Khayr (خَيْر) - AI Food Donation Platform
 * [Khayr-Smart-Donation-App](https://github.com/SaraSafar-DA/Khayr-Smart-Donation-App)
-  * Description: An AI-powered, cross-platform mobile application developed to reduce food waste in Saudi Arabia by connecting donors, charities, and volunteers in real-time using Google Cloud Vision API and Firestore transactions[cite: 1].
-  * Core Tech: React Native, TypeScript, Zustand, Firebase (Auth, Firestore, FCM, Storage)[cite: 1].
+  * Description: An AI-powered, cross-platform mobile application developed to reduce food waste in Saudi Arabia by connecting donors, charities, and volunteers in real-time using Google Cloud Vision API and Firestore transactions.
+  * Core Tech: React Native, TypeScript, Zustand, Firebase (Auth, Firestore, FCM, Storage).
 
 ### 📊 2. Data Analysis & Machine Learning
 * [Kepler-Exoplanet-Data-Analysis](https://github.com/SaraSafar-DA/Kepler-Exoplanet-Data-Analysis)
