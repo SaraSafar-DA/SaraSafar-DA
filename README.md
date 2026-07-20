@@ -1,6 +1,6 @@
 # 👋 Hello and Welcome to My Portfolio! 
 
-I am a Computer Science Graduate, specializing as a Data Analyst & UI/UX Designer. 
+I am a Computer Science Graduate, specializing as a Data Analyst & AI Developer. 
 
 With a solid foundation in computer science core principles, I bridge the gap between logical data processing—ranging from retail business metrics to complex astronomical data—and creative, user-centered design. My goal is to leverage my technical background to build complete, scalable, and highly functional digital solutions.
 
