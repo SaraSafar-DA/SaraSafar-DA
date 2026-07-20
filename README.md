@@ -1,10 +1,10 @@
 # 👋 Hello and Welcome to My Portfolio! 
+Computer Science Graduate | Data Analyst & AI Developer
 
-I am a Computer Science Graduate, specializing as a Data Analyst & AI Developer. 
+---
 
-With a solid foundation in computer science core principles, I bridge the gap between logical data processing—ranging from retail business metrics to complex astronomical data—and creative, user-centered design. My goal is to leverage my technical background to build complete, scalable, and highly functional digital solutions.
-
-This profile serves as a showcase of my diverse projects and skills developed across multiple domains.
+### About Me
+Passionate Computer Science graduate with a strong interest in Data Analysis, Machine Learning, and Artificial Intelligence. I enjoy turning raw data into meaningful insights and building intelligent solutions through hands-on projects.
 
 ---
 
